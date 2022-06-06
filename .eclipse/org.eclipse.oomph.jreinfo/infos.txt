@@ -1,0 +1,1 @@
+C:\Program Files\Java\jdk-17.0.2;17;0;2;64;true;1647225645692;x86_64
